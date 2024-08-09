@@ -1,0 +1,41 @@
+{
+  "current": {
+    "cloudcover": 2,
+    "feelslike": 13,
+    "humidity": 46,
+    "is_day": "yes",
+    "observation_time": "11:54 AM",
+    "precip": 0,
+    "pressure": 1014,
+    "temperature": 14,
+    "uv_index": 4,
+    "visibility": 10,
+    "weather_code": 116,
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "weather_icons": [
+      "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "wind_degree": 296,
+    "wind_dir": "WNW",
+    "wind_speed": 13
+  },
+  "location": {
+    "country": "Germany",
+    "lat": "52.517",
+    "localtime": "2021-04-21 13:54",
+    "localtime_epoch": 1619013240,
+    "lon": "13.400",
+    "name": "Berlin",
+    "region": "Berlin",
+    "timezone_id": "Europe/Berlin",
+    "utc_offset": "2.0"
+  },
+  "request": {
+    "language": "en",
+    "query": "Berlin, Germany",
+    "type": "City",
+    "unit": "m"
+  }
+}
