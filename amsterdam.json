@@ -1,0 +1,41 @@
+{
+  "current": {
+    "cloudcover": 75,
+    "feelslike": 9,
+    "humidity": 82,
+    "is_day": "yes",
+    "observation_time": "07:48 AM",
+    "precip": 0,
+    "pressure": 1018,
+    "temperature": 10,
+    "uv_index": 1,
+    "visibility": 7,
+    "weather_code": 116,
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "weather_icons": [
+      "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+    ],
+    "wind_degree": 360,
+    "wind_dir": "N",
+    "wind_speed": 20
+  },
+  "location": {
+    "country": "Netherlands",
+    "lat": "52.374",
+    "localtime": "2021-04-21 09:48",
+    "localtime_epoch": 1618998480,
+    "lon": "4.890",
+    "name": "Amsterdam",
+    "region": "North Holland",
+    "timezone_id": "Europe/Amsterdam",
+    "utc_offset": "2.0"
+  },
+  "request": {
+    "language": "en",
+    "query": "Amsterdam, Netherlands",
+    "type": "City",
+    "unit": "m"
+  }
+}
