@@ -1,12 +1,12 @@
 {
-    "verse_one":{
+    "verse_one":[
         {"text_one":"mój głos wewnętrzny niczego nie doradza niczego nie odradza"},
         {"text_two":"nie mówi ani takani nie"},
       {"text_three":"jest słabo słyszalny i prawie nieartykułowany"}
-},
-  "verse_two":{
+    ],
+  "verse_two":[
     {"text_one":"nawet jeśli się bardzo głęboko pochyli słychać tylko oderwane od sensu sylaby"},
     {"text_two":"staram się go nie zagłuszać obchodzę się z nim dobrze"},
     {"text_three":"udaję że traktuję go na równi że mi na nim zależy"}
-},
+  ],
 }
